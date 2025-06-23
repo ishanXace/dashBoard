@@ -38,9 +38,9 @@ Open [http://localhost:3000](http://localhost:3000) to view the dashboard in you
 
 
 ---src/
-├── App.js # Main application logic and components
-├── App.css # Comprehensive styling for all components
-└── index.js # Entry point
+**├── App.js** # Main application logic and components
+**├── App.css** # Comprehensive styling for all components
+**└── index.js** # Entry point
 
 
 
@@ -100,13 +100,7 @@ MIT
 ## 💡 Credits
 
 - Inspired by modern SaaS dashboards and open-source admin templates.
-- Designed and coded by [Your Name].
-
----
-
-## 📬 Contact
-
-For questions or feedback, open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+- Designed and coded by Ishandeep Singh.
 
 ---
 
