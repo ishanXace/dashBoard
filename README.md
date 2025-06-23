@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the dashboard in you
 ## 🗂️ Project Structure
 
 
----src/
+---src/<br>
 **├── App.js** # Main application logic and components<br>
 **├── App.css** # Comprehensive styling for all components<br>
 **└── index.js** # Entry point<br>
