@@ -38,9 +38,9 @@ Open [http://localhost:3000](http://localhost:3000) to view the dashboard in you
 
 
 ---src/
-**├── App.js** # Main application logic and components
-**├── App.css** # Comprehensive styling for all components
-**└── index.js** # Entry point
+**├── App.js** # Main application logic and components<br>
+**├── App.css** # Comprehensive styling for all components<br>
+**└── index.js** # Entry point<br>
 
 
 
